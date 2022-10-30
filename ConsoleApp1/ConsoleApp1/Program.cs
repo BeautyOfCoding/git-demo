@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("git-demo，使用git推送的!");
+            Console.WriteLine("git-demo，第二次修改");
         }
     }
 }
